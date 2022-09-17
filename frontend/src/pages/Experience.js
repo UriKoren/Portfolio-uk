@@ -32,7 +32,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Sapir Academic Collage
+            Sapir Academic College
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
